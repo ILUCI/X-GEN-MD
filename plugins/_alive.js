@@ -11,9 +11,9 @@ let handler = async (m, { conn }) => {
 │╭────────────────────
 ┴│       X-Gen-MD
 ⬡│💻 A WhatsApp bot created by:
-⬡│👨‍💻 Slasher-Official 🇧🇩
+⬡│👨‍💻 Slasher-Official 🇮🇳
 ⬡│📞 For any inquiries, contact:
-⬡│📱 wa.me/8801853262586
+⬡│📱 wa.me/+916296851422
 ⬡│🙅‍♂️ Don't call the owner or you\'ll be
 ⬡│ ignored or blocked! 😬
 │╰────────────────────
@@ -25,7 +25,7 @@ let handler = async (m, { conn }) => {
 ┬│🔸 .translate \n⬡│- Translates text to other lang
 │╰──────────────
 ╰────────═┅═───────
-*Thank you for choosing X-GEN-MD! 🌟✨*
+*Thank you for choosing LuciZR-MD! 🌟✨*
 `.trim()
   m.reply(caption)
 }
