@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['916296851422', '✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎', true], 
   ['put your number', 'your-name', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
+global.mods = ['put-your-number','916296851422'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['916296851422','']
 global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.nomorown = '916296851422' //Change it to your own
+global.namebot = '*☠︎︎ʟᴜᴄɪ ɮօȶ ⚠︎✔*♫︎' //change it to your own
+global.nameown = '✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎' // change it to your own
 
 //*============= ==============*/
 
@@ -48,9 +48,9 @@ global.org = 'org-hE49SehUQEPAGJAy20yr4Om9'   // Get you Org-Key from 'https://p
 
 
 /*============= TAIMU =============*/
-let wibh = moment.tz('Asia/Dhaka').format('HH')
-    let wibm = moment.tz('Asia/Dhaka').format('mm')
-    let wibs = moment.tz('Asia/Dhaka').format('ss')
+let wibh = moment.tz('Asia/Kolkata').format('HH')
+    let wibm = moment.tz('Asia/Kolkata').format('mm')
+    let wibs = moment.tz('Asia/Kolkata').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -71,15 +71,15 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
+global.sig = 'https://instagram.com/i.luci.zr' //Link Instagrammu
 global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
+global.sgc = 'https://chat.whatsapp.com/L9kqKKZpQY2BrqHabqfa0I'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '916296851422' //Nomor Danamu
+global.ppulsa = '916296851422' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 
@@ -118,26 +118,26 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
+global.wm = '「 *☠︎︎ʟᴜᴄɪ ɮօȶ ⚠︎✔*♫︎ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '*☠︎︎ʟᴜᴄɪ ɮօȶ ⚠︎✔*♫︎'
+global.footerTXT = `*☠︎︎ʟᴜᴄɪ ɮօȶ ⚠︎✔*♫︎ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +916296851422`
+global.fig = `Follow me on instagram:\n\t\tinstagram.com/i.luci.zr`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ ✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
+global.logo = 'https://i.imgur.com/SECMXa1.jpeg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
-global.thumbbc = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
-global.hwaifu = ['https://i.ibb.co/jLnr3K9/20231025-195821.jpg']
+global.thumb = 'https://i.imgur.com/SECMXa1.jpeg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/SECMXa1.jpeg'
+global.thumbbc = 'https://i.imgur.com/SECMXa1.jpeg' //For broadcast
+global.giflogo = 'https://i.imgur.com/SECMXa1.jpeg'
+global.thumblvlup = 'https://i.imgur.com/SECMXa1.jpeg'
+global.hwaifu = ['https://i.imgur.com/SECMXa1.jpeg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -153,7 +153,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '+91 6296851422'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -163,7 +163,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
+global.thumbdoc = 'https://i.imgur.com/SECMXa1.jpeg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '5644' // default 10TB
@@ -172,7 +172,7 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇧🇩' //body
+global.dmenub = '┊🇮🇳' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
@@ -196,7 +196,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = 'x_sla.sher_'
 global.stickauth = `「 x-ɢᴇɴ-ᴍᴅ 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ x-ɢᴇɴ-ᴍᴅ'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎'
 
 global.multiplier = 38 // The higher, The harder levelup
 
